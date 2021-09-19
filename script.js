@@ -4,4 +4,5 @@ if(input == 123){
 }
 else{
   alert("Wrong!")
+  location.reload()
 }
