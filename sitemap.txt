@@ -1,3 +1,4 @@
+http://example.com/about/index.html
 http://example.com/2025/06/08/mtv/
 http://example.com/2025/06/08/hello-world/
 http://example.com/
