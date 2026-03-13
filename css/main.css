@@ -22,6 +22,13 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 500;
   font-style: normal;
 }
+.small-title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 24px;   /* 16px 左右 */
+  font-weight: 500;  /* 保持一點粗體感 */
+  font-style: normal;
+  /* margin-top: 0.5em; */
+}
 a {
   color: #008AFF;
 }
